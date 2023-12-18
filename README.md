@@ -8,7 +8,8 @@ For every column in the data:
 - State whether the values match the description given in the table above.
 - State the number of missing values in the column.
 - Describe what you did to make values match the description if they did not match.
-- Create a visualization that shows how many products are repeat purchases. 
+- Create a visualization that shows how many products are repeat purchases.
+
 Use the visualization to: 
 - State which category of the variable repeat purchases has the most observations
 - Explain whether the observations are balanced across categories of the variable repeat purchases
